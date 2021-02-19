@@ -68,8 +68,8 @@
         <kafka.connect.storage.common.version>10.0.3-SNAPSHOT</kafka.connect.storage.common.version>
         <commons-io.version>2.4</commons-io.version>
         <confluent.maven.repo>http://packages.confluent.io/maven/</confluent.maven.repo>
-        <hadoop.version>2.10.1</hadoop.version>
-        <hive.version>2.3.7</hive.version>
+        <hadoop.version>3.0.0</hadoop.version>
+        <hive.version>3.0.0</hive.version>
         <joda.version>2.9.6</joda.version>
         <parquet.version>1.11.1</parquet.version>
         <httpclient.version>4.5.13</httpclient.version>
